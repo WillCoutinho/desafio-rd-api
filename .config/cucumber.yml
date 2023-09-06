@@ -1,0 +1,2 @@
+default: --format pretty --publish-quiet
+report: --format html --out=features_report.html --publish
